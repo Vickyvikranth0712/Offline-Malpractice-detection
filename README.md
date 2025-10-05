@@ -97,4 +97,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-# 🚀 Let's make offline exams more secure together! Made with LOVE by Kirthivasan M R
+# 🚀 Let's make offline exams more secure together! Made with LOVE by Vikranth V
